@@ -24,7 +24,6 @@ const App = () => {
             {init && (
                 <Particles
                     id="tsparticles"
-                    // particlesLoaded={particlesLoaded}
                     options={{
                         fpsLimit: 120,
                         interactivity: {
